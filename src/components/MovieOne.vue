@@ -23,7 +23,7 @@ export default {
      return this.$store.getters.watchMovies;
     }
   } 
-}
+};
 </script>
 
 <style>
